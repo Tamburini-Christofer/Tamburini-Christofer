@@ -88,11 +88,11 @@
 
 ###
 
-<p align="center">Edoardo Midali - 7 ore - Youtube (in corso)</p>
+<p align="center">Edoardo Midali - 7 ore - Youtube </p>
 
 ###
 
-<p align="center">Boolean - 58.5 ore - Zoom (in corso)</p>
+<p align="center">Boolean - 58.5 ore - Zoom </p>
 
 ###
 
@@ -102,11 +102,11 @@
 
 ###
 
-<p align="center">Edoardo Midali - 5 ore - Youtube (in corso)</p>
+<p align="center">Edoardo Midali - 5 ore - Youtube </p>
 
 ###
 
-<p align="center">Boolean - 36 ore - Zoom (in corso)</p>
+<p align="center">Boolean - 36 ore - Zoom </p>
 
 ###
 
