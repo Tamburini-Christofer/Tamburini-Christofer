@@ -3,7 +3,7 @@
 
 ---
 
-# 🏆 <span style="color:#4ec9b0;">Certificazioni</span>
+# <span style="color:#4ec9b0;">Certificazioni</span>
 
 <div align="center" style="
   width:100%;
