@@ -13,17 +13,11 @@
 ">
 
 <img src="https://img.shields.io/badge/Blender-Modulo_1_&_2-F5792A?style=for-the-badge&logo=blender&logoColor=white"/>
-<br><br>
-
 <img src="https://img.shields.io/badge/Blender-Furniture_Design-F5792A?style=for-the-badge&logo=blender&logoColor=white"/>
 <br><br>
 
 <img src="https://img.shields.io/badge/Boolean-Development_Fundamentals_Camp-00C896?style=for-the-badge"/>
-<br><br>
-
 <img src="https://img.shields.io/badge/Boolean-Certificato_Fine_Corso-00C896?style=for-the-badge"/>
-<br><br>
-
 <img src="https://img.shields.io/badge/Boolean-Specializzazione_React-00C896?style=for-the-badge"/>
 <br><br>
 
