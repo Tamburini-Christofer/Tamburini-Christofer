@@ -3,6 +3,54 @@
 
 ---
 
+# 🏆 <span style="color:#4ec9b0;">Certificazioni</span>
+
+<table style="border-collapse:collapse; width:100%; border:1px solid #444;">
+<tr>
+<td style="border:1px solid #444; padding:15px; background:#1e1e1e;">
+
+<div align="center">
+
+<!-- BLENDER -->
+<img src="https://img.shields.io/badge/Blender-Modulo_1_&_2-F5792A?style=for-the-badge&logo=blender&logoColor=white"/>
+<br><br>
+<img src="https://img.shields.io/badge/Blender-Furniture_Design-F5792A?style=for-the-badge&logo=blender&logoColor=white"/>
+<br><br>
+
+<!-- BOOLEAN -->
+<img src="https://img.shields.io/badge/Boolean-Development_Fundamentals_Camp-00C896?style=for-the-badge"/>
+<br><br>
+<img src="https://img.shields.io/badge/Boolean-Certificato_Fine_Corso-00C896?style=for-the-badge"/>
+<br><br>
+<img src="https://img.shields.io/badge/Boolean-Specializzazione_React-00C896?style=for-the-badge"/>
+<br><br>
+
+<!-- FIGMA -->
+<img src="https://img.shields.io/badge/Aulab-Figma_Course-A259FF?style=for-the-badge&logo=figma&logoColor=white"/>
+<br><br>
+
+<!-- DOCKER -->
+<img src="https://img.shields.io/badge/Docker-Certification-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<br><br>
+
+<!-- SISTEMISTA -->
+<img src="https://img.shields.io/badge/Sistemista_Informatico-Livello_1-555555?style=for-the-badge"/>
+
+<br><br>
+
+<!-- UDEMY ENGLISH -->
+<img src="https://img.shields.io/badge/Udemy-Full_Course_(English)-A435F0?style=for-the-badge&logo=udemy&logoColor=white"/>
+
+</div>
+
+</td>
+</tr>
+</table>
+
+---
+
+---
+
 # <span style="color:#ffae57;">Frontend</span>
 
 <table style="border-collapse:collapse; width:100%; border:1px solid #444;">
