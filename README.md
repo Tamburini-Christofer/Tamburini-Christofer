@@ -152,6 +152,14 @@
 <td align="right" style="vertical-align:middle;">58.5 h</td>
 </tr>
 
+<tr style="background:#1e1e1e;">
+<td style="vertical-align:middle;">
+    <img src="https://img.shields.io/badge/Boolean-00C896?style=flat&logoColor=white" height="18"/>
+    Boolean – Specializzazioni React
+</td>
+<td align="right" style="vertical-align:middle;">20 h</td>
+</tr>
+
 </table>
 
 </td>
