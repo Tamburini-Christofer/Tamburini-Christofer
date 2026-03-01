@@ -3,7 +3,7 @@
 
 ---
 
-# <span style="color:#4ec9b0;">Certificazioni</span>
+# <span align="center" style="color:#4ec9b0;">Certificazioni</span>
 
 <div align="center" style="
   width:100%;
@@ -35,7 +35,7 @@
 
 ---
 
-# <span style="color:#ffae57;">Frontend</span>
+# <span align="center" style="color:#ffae57;">Frontend</span>
 
 <table style="border-collapse:collapse; width:100%; border:1px solid #444;">
 <tr>
@@ -120,7 +120,7 @@
 
 ---
 
-# <span style="color:#ffd94a;">JavaScript & React</span>
+# <span align="center" style="color:#ffd94a;">JavaScript & React</span>
 
 <table style="border-collapse:collapse; width:100%; border:1px solid #444;">
 <tr>
@@ -201,7 +201,7 @@
 
 ---
 
-# <span style="color:#4ec9b0;">Backend</span>
+# <span align="center" style="color:#4ec9b0;">Backend</span>
 
 <table style="border-collapse:collapse; width:100%; border:1px solid #444;">
 <tr>
@@ -292,7 +292,7 @@
 
 ---
 
-# <span style="color:#c586c0;">Altro</span>
+# <span align="center" style="color:#c586c0;">Altro</span>
 
 ---
 
