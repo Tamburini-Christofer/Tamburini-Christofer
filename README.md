@@ -1,1 +1,184 @@
-<h2 align="center" style="color:#9cdcfe;">Tamburini Christofer</h2> <p align="center" style="color:#cccccc;">Web Developer • 3D Artist</p> <hr> <h1 align="center" style="color:#4ec9b0;">Certificazioni</h1> <div align="center" style="padding:30px 0; background:linear-gradient(180deg,#0d1117,#010409); border:1px solid #30363d;"> <img src="https://img.shields.io/badge/Boolean-Development_Fundamentals_Camp-00C896?style=for-the-badge"><br> <img src="https://img.shields.io/badge/Boolean-Certificato_Fine_Corso-00C896?style=for-the-badge"><br> <img src="https://img.shields.io/badge/Boolean-Specializzazione_React-00C896?style=for-the-badge"><br><br> <img src="https://img.shields.io/badge/Blender-Modulo_1_&_2-F5792A?style=for-the-badge&logo=blender&logoColor=white"><br> <img src="https://img.shields.io/badge/Blender-Furniture_Design-F5792A?style=for-the-badge&logo=blender&logoColor=white"><br><br> <img src="https://img.shields.io/badge/Aulab-Figma_Course-A259FF?style=for-the-badge&logo=figma&logoColor=white"><br><br> <img src="https://img.shields.io/badge/Docker-Certification-2496ED?style=for-the-badge&logo=docker&logoColor=white"><br><br> <img src="https://img.shields.io/badge/Sistemista_Informatico-Livello_1-555555?style=for-the-badge"><br><br> <img src="https://img.shields.io/badge/Udemy-Full_Course_(English)-A435F0?style=for-the-badge&logo=udemy&logoColor=white"> </div> <hr> <h1 align="center" style="color:#ffae57;">Frontend</h1> <table align="center" width="100%" border="1"> <tr> <td align="center" width="50%" valign="top"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <table align="center" width="95%"> <tr> <td align="center"> <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white"> Andrea Ciraolo </td> <td align="center">4 h</td> </tr> <tr> <td align="center"> <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white"> Edoardo Midali </td> <td align="center">3.5 h</td> </tr> <tr> <td align="center">📘 John Duckett – Libro</td> <td align="center">4 h</td> </tr> <tr> <td align="center"> <img src="https://img.shields.io/badge/Boolean-00C896?style=flat"> Boolean </td> <td align="center">47.25 h</td> </tr> </table> </td> <td align="center" width="50%" valign="top"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <table align="center" width="95%"> <tr> <td align="center"> <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white"> Andrea Ciraolo </td> <td align="center">4 h</td> </tr> <tr> <td align="center"> <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white"> Edoardo Midali </td> <td align="center">7 h</td> </tr> <tr> <td align="center"> <img src="https://img.shields.io/badge/Boolean-00C896?style=flat"> Boolean </td> <td align="center">47.25 h</td> </tr> </table> </td> </tr> </table> <hr> <h1 align="center" style="color:#ffd94a;">JavaScript & React</h1> <table align="center" width="100%" border="1"> <tr> <td align="center" width="50%" valign="top"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000"> <table align="center" width="95%"> <tr> <td align="center"> <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white"> Edoardo Midali </td> <td align="center">8 h</td> </tr> <tr> <td align="center">📘 John Duckett – Libro</td> <td align="center">4 h</td> </tr> <tr> <td align="center"> <img src="https://img.shields.io/badge/Boolean-00C896?style=flat"> Boolean </td> <td align="center">85.5 h</td> </tr> </table> </td> <td align="center" width="50%" valign="top"> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000"> <table align="center" width="95%"> <tr> <td align="center"> <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white"> Edoardo Midali </td> <td align="center">7 h</td> </tr> <tr> <td align="center"> <img src="https://img.shields.io/badge/Boolean-00C896?style=flat"> Boolean </td> <td align="center">58.5 h</td> </tr> <tr> <td align="center"> <img src="https://img.shields.io/badge/Boolean-00C896?style=flat"> Boolean – Specializzazioni React </td> <td align="center">20 h</td> </tr> </table> </td> </tr> </table> <hr> <h1 align="center" style="color:#4ec9b0;">Backend</h1> <table align="center" width="100%" border="1"> <tr> <!-- NODE --> <td align="center" width="33%" valign="top"> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"> <table align="center" width="95%"> <tr> <td align="center"> <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white"> Edoardo Midali </td> <td align="center">6 h</td> </tr> <tr> <td align="center"> <img src="https://img.shields.io/badge/Boolean-00C896?style=flat"> Boolean </td> <td align="center">30 h</td> </tr> </table> </td> <!-- EXPRESS --> <td align="center" width="33%" valign="top"> <img src="https://img.shields.io/badge/Express.js-FFFFFF?style=for-the-badge&logo=express&logoColor=000"> <table align="center" width="95%"> <tr> <td align="center"> <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white"> Edoardo Midali </td> <td align="center">5 h</td> </tr> <tr> <td align="center"> <img src="https://img.shields.io/badge/Boolean-00C896?style=flat"> Boolean </td> <td align="center">36 h</td> </tr> </table> </td> <!-- MYSQL --> <td align="center" width="33%" valign="top"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <table align="center" width="95%"> <tr> <td align="center"> <img src="https://img.shields.io/badge/Boolean-00C896?style=flat"> Boolean </td> <td align="center">30 h</td> </tr> <tr> <td align="center"> <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white"> Midali </td> <td align="center">4 h</td> </tr> </table> </td> </tr> </table> <hr> <h1 align="center" style="color:#c586c0;">Altro</h1> <h2 align="center">Blender</h2> <table align="center" width="70%" border="1"> <tr> <td align="center"> <img src="https://img.shields.io/badge/Udemy-A435F0?style=flat&logo=udemy&logoColor=white"> Form Design </td> <td align="center">8.5 h</td> </tr> <tr> <td align="center"> <img src="https://img.shields.io/badge/Udemy-A435F0?style=flat&logo=udemy&logoColor=white"> Modulo 1 </td> <td align="center">11.5 h</td> </tr> <tr> <td align="center"> <img src="https://img.shields.io/badge/Udemy-A435F0?style=flat&logo=udemy&logoColor=white"> Modulo 2 </td> <td align="center">9.5 h</td> </tr> <tr> <td align="center"> <img src="https://img.shields.io/badge/Udemy-A435F0?style=flat&logo=udemy&logoColor=white"> Geometry Nodes </td> <td align="center">1 h</td> </tr> <tr> <td align="center"> <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white"> Ciraolo </td> <td align="center">1.5 h</td> </tr> </table> <hr> <h2 align="center">Grafica & Video Editing</h2> <table align="center" width="80%" border="1"> <tr> <td align="center" width="50%" valign="top"> <h3>Photoshop</h3> <table align="center" width="95%"> <tr> <td align="center"> <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white"> Ciraolo </td> <td align="center">4 h</td> </tr> <tr> <td align="center"> <img src="https://img.shields.io/badge/Udemy-A435F0?style=flat&logo=udemy&logoColor=white"> Alberto Comper </td> <td align="center">19 h</td> </tr> </table> </td> <td align="center" width="50%" valign="top"> <h3>Premiere & After Effects</h3> <table align="center" width="95%"> <tr> <td align="center"> <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white"> Ciraolo (Premiere) </td> <td align="center">2 h</td> </tr> <tr> <td align="center"> <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white"> Ciraolo (After Effects) </td> <td align="center">3.5 h</td> </tr> </table> </td> </tr> </table> <hr> <h2 align="center">Arduino</h2> <table align="center" width="70%" border="1"> <tr> <td align="center"> <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white"> Apolo Aliverti </td> <td align="center">20 h</td> </tr> <tr> <td align="center">📘 Apolo Aliverti – Libro</td> <td align="center">6 h</td> </tr> </table> <hr> <h1 align="center">Contatti</h1> <div align="center"> <a href="https://www.youtube.com/@christofertamburiniChannel" target="_blank"> <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"> </a> <a href="https://www.facebook.com/christofer.tamburini/" target="_blank"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"> </a> <a href="https://www.instagram.com/christofer.tamburini/" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> </a> <a href="https://t.me/3473402835" target="_blank"> <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"> </a> <a href="https://discord.com/users/tamburinichristofer_85381" target="_blank"> <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"> </a> <a href="mailto:Christofer.tamburini92@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a> </div>
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+</div>
+
+###
+
+<h1 align="center">Christofer Tamburini</h1>
+
+###
+
+<h2 align="center">Junior Frontend Developer</h2>
+
+###
+
+<h3 align="center">Linguaggi | Librerie | Framework | Frontend</h3>
+
+###
+
+<div align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?logo=css&logoColor=white&style=for-the-badge" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" height="40" alt="bootstrap logo"  />
+</div>
+
+###
+
+<h3 align="center">Linguaggi | Librerie | Framework | Backend</h3>
+
+###
+
+<div align="center">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" height="40" alt="express logo"  />
+</div>
+
+###
+
+<h3 align="center">Dev Tools</h3>
+
+###
+
+<div align="center">
+  <img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white&style=for-the-badge" height="40" alt="npm logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white&style=for-the-badge" height="40" alt="vite logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=black&style=for-the-badge" height="40" alt="postman logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=white&style=for-the-badge" height="40" alt="trello logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white&style=for-the-badge" height="40" alt="jest logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" height="40" alt="figma logo"  />
+</div>
+
+###
+
+<h3 align="center">Altri programmi</h3>
+
+###
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?logo=adobephotoshop&logoColor=black&style=for-the-badge" height="40" alt="photoshop logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Adobe Premiere Pro-9999FF?logo=adobepremierepro&logoColor=black&style=for-the-badge" height="40" alt="premierepro logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=black&style=for-the-badge" height="40" alt="blender logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white&style=for-the-badge" height="40" alt="arduino logo"  />
+</div>
+
+###
+
+<table>
+<tr>
+
+<td align="center" width="50%">
+
+### Final Project Frontend
+<a href="https://github.com/Tamburini-Christofer/progetto-finale-spec-frontend-front">
+<img src="https://github.com/Tamburini-Christofer/progetto-finale-spec-frontend-front/blob/master/public/complete/preferiti.png?raw=true" width="400" style="height:auto;">
+</a>
+
+Progetto finale frontend.
+
+</td>
+
+<td align="center" width="50%">
+
+### Magic The Gathering
+<a href="https://github.com/Tamburini-Christofer/Magic-TheGathering">
+<img src="https://github.com/Tamburini-Christofer/Magic-TheGathering/raw/main/public/Completato/Screenshot%202026-01-13%20141310.png" width="400" style="height:auto;">
+</a>
+
+App con API Magic.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+### Boolflix
+<a href="https://github.com/Tamburini-Christofer/react-boolflix">
+<img src="https://github.com/Tamburini-Christofer/react-boolflix/blob/main/immaginiComplete/film.png?raw=true" width="400" style="height:auto;">
+</a>
+
+Clone Netflix React.
+
+</td>
+
+<td align="center">
+
+### Weather App
+<a href="https://github.com/Tamburini-Christofer/react-ex-weather-app-main">
+<img src="https://github.com/Tamburini-Christofer/react-ex-weather-app-main/blob/main/Completato.png?raw=true" width="400" style="height:auto;">
+</a>
+
+App meteo React.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+### DC Comics React
+<a href="https://github.com/Tamburini-Christofer/react-dc-comics">
+<img src="https://github.com/Tamburini-Christofer/react-dc-comics/blob/main/Immagine%20Readmi.png?raw=true" width="400" style="height:auto;">
+</a>
+
+Applicazione React dedicata all'universo DC Comics.
+
+</td>
+
+<td align="center">
+
+### BooRoad
+<a href="https://github.com/Tamburini-Christofer/booroad-cs5-main">
+<img src="https://github.com/Tamburini-Christofer/booroad-cs5-main/blob/main/Completate/HomePage.png?raw=true" width="400" style="height:auto;">
+</a>
+
+Progetto web.
+
+</td>
+
+</tr>
+</table>
+<h3 align="center">Contatti</h3>
+
+###
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge" height="40" alt="facebook logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" height="40" alt="instagram logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge" height="40" alt="discord logo"  />
+</div>
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+</div>
+
+###
