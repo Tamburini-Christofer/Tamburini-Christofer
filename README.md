@@ -91,8 +91,7 @@
 <img src="https://github.com/Tamburini-Christofer/progetto-finale-spec-frontend-front/blob/master/public/complete/preferiti.png?raw=true" width="400" style="height:auto;">
 </a>
 
-Progetto finale frontend.
-
+App React per cercare, ordinare e confrontare fino a 4 film e aggiungerli all'interno della pagina preferiti
 </td>
 
 <td align="center" width="50%">
@@ -117,7 +116,7 @@ App con API Magic.
 <img src="https://github.com/Tamburini-Christofer/react-boolflix/blob/main/immaginiComplete/film.png?raw=true" width="400" style="height:auto;">
 </a>
 
-Clone Netflix React.
+Clone Netflix in React, con ricerca, filtri, dettagli film e serie, interfaccia dinamica con animazioni CSS.
 
 </td>
 
@@ -128,7 +127,7 @@ Clone Netflix React.
 <img src="https://github.com/Tamburini-Christofer/react-ex-weather-app-main/blob/main/Completato.png?raw=true" width="400" style="height:auto;">
 </a>
 
-App meteo React.
+App meteo React con ricerca per città e visualizzazione dinamica delle previsioni.
 
 </td>
 
@@ -143,7 +142,7 @@ App meteo React.
 <img src="https://github.com/Tamburini-Christofer/react-dc-comics/blob/main/Immagine%20Readmi.png?raw=true" width="400" style="height:auto;">
 </a>
 
-Applicazione React dedicata all'universo DC Comics.
+App React per esplorare personaggi e contenuti dell’universo DC Comics.
 
 </td>
 
@@ -154,7 +153,7 @@ Applicazione React dedicata all'universo DC Comics.
 <img src="https://github.com/Tamburini-Christofer/booroad-cs5-main/blob/main/Completate/HomePage.png?raw=true" width="400" style="height:auto;">
 </a>
 
-Progetto web.
+Gestione contatti e viaggi in React, con layout a griglia e funzionalità per aggiungere o rimuovere guide e partecipanti.
 
 </td>
 
