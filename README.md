@@ -118,6 +118,19 @@
       </div>
     </td>
   </tr>
+  <tr>
+    <td align="center" width="50%" valign="top" style="padding: 10px;">
+      <h3>Mythos Grecia</h3>
+      <a href="https://github.com/Tamburini-Christofer/Progetto-2-TypeScript-Mythos-Grecia">
+        <img src="https://github.com/Tamburini-Christofer/Progetto-2-TypeScript-Mythos-Grecia/blob/main/public/Dextop.png?raw=true" width="400">
+      </a>
+      <div style="height: 80px;">
+        <p>Progetto realizzato con TypeScript dedicato alla mitologia greca.</p>
+      </div>
+    </td>
+    <td align="center" width="50%" valign="top" style="padding: 10px;">
+      </td>
+  </tr>
 </table>
 
 <h3 align="center">Contatti</h3>
