@@ -11,153 +11,115 @@
 <h2 align="left">Junior Frontend Developer</h2>
 
 ###
-
 <h3 align="left">Linguaggi | Librerie | Framework | Frontend</h3>
-
-###
-
 <div align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="40" alt="html5 logo"  />
-  <img src="https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white&style=for-the-badge" height="40" alt="markdown logo"  />
-  <img src="https://img.shields.io/badge/CSS-1572B6?logo=css&logoColor=white&style=for-the-badge" height="40" alt="css logo"  />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="40" alt="javascript logo"  />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="40" alt="typescript logo"  />
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="40" alt="react logo"  />
-  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="40" alt="nextjs logo"  />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" height="40" alt="bootstrap logo"  />
-  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" height="40" alt="tailwindcss logo"  />
+  <img src="https://img.shields.io/badge/HTML5-C2355A?logo=html5&logoColor=white&style=for-the-badge" height="40" alt="html5 logo" />
+  <img src="https://img.shields.io/badge/Markdown-C2355A?logo=markdown&logoColor=white&style=for-the-badge" height="40" alt="markdown logo" />
+  <img src="https://img.shields.io/badge/CSS-C2355A?logo=css&logoColor=white&style=for-the-badge" height="40" alt="css logo" />
+  <img src="https://img.shields.io/badge/JavaScript-C2355A?logo=javascript&logoColor=white&style=for-the-badge" height="40" alt="javascript logo" />
+  <img src="https://img.shields.io/badge/TypeScript-C2355A?logo=typescript&logoColor=white&style=for-the-badge" height="40" alt="typescript logo" />
+  <img src="https://img.shields.io/badge/React-C2355A?logo=react&logoColor=white&style=for-the-badge" height="40" alt="react logo" />
+  <img src="https://img.shields.io/badge/Next.js-C2355A?logo=nextdotjs&logoColor=white&style=for-the-badge" height="40" alt="nextjs logo" />
+  <img src="https://img.shields.io/badge/Bootstrap-C2355A?logo=bootstrap&logoColor=white&style=for-the-badge" height="40" alt="bootstrap logo" />
+  <img src="https://img.shields.io/badge/Tailwind CSS-C2355A?logo=tailwindcss&logoColor=white&style=for-the-badge" height="40" alt="tailwindcss logo" />
 </div>
-
-###
-</div>
-
-###
 
 <h3 align="left">Linguaggi | Librerie | Framework | Backend</h3>
-
-###
-
 <div align="left">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="40" alt="mysql logo"  />
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="40" alt="nodejs logo"  />
-  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" height="40" alt="express logo"  />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="40" alt="python logo"  />
- <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge" height="40" alt="java logo" />
+  <img src="https://img.shields.io/badge/MySQL-971B9D?logo=mysql&logoColor=white&style=for-the-badge" height="40" alt="mysql logo" />
+  <img src="https://img.shields.io/badge/Node.js-971B9D?logo=nodedotjs&logoColor=white&style=for-the-badge" height="40" alt="nodejs logo" />
+  <img src="https://img.shields.io/badge/Express-971B9D?logo=express&logoColor=white&style=for-the-badge" height="40" alt="express logo" />
+  <img src="https://img.shields.io/badge/Python-971B9D?logo=python&logoColor=white&style=for-the-badge" height="40" alt="python logo" />
+  <img src="https://img.shields.io/badge/Java-971B9D?logo=java&logoColor=white&style=for-the-badge" height="40" alt="java logo" />
 </div>
-
-
-###
 
 <h3 align="left">Dev Tools</h3>
-
-###
-
 <div align="left">
-  <img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white&style=for-the-badge" height="40" alt="npm logo"  />
-  <img src="https://img.shields.io/badge/Yarn-2C8EBB?logo=yarn&logoColor=white&style=for-the-badge" height="40" alt="yarn logo"  />
-  <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white&style=for-the-badge" height="40" alt="vite logo"  />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=black&style=for-the-badge" height="40" alt="postman logo"  />
-  <img src="https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=white&style=for-the-badge" height="40" alt="trello logo"  />
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="40" alt="github logo"  />
-  <img src="https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=black&style=for-the-badge" height="40" alt="gitlab logo"  />
-  <img src="https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white&style=for-the-badge" height="40" alt="jest logo"  />
+  <img src="https://img.shields.io/badge/npm-CA0F5C?logo=npm&logoColor=white&style=for-the-badge" height="40" alt="npm logo" />
+  <img src="https://img.shields.io/badge/Yarn-CA0F5C?logo=yarn&logoColor=white&style=for-the-badge" height="40" alt="yarn logo" />
+  <img src="https://img.shields.io/badge/Vite-CA0F5C?logo=vite&logoColor=white&style=for-the-badge" height="40" alt="vite logo" />
+  <img src="https://img.shields.io/badge/Postman-CA0F5C?logo=postman&logoColor=white&style=for-the-badge" height="40" alt="postman logo" />
+  <img src="https://img.shields.io/badge/Trello-CA0F5C?logo=trello&logoColor=white&style=for-the-badge" height="40" alt="trello logo" />
+  <img src="https://img.shields.io/badge/GitHub-CA0F5C?logo=github&logoColor=white&style=for-the-badge" height="40" alt="github logo" />
+  <img src="https://img.shields.io/badge/GitLab-CA0F5C?logo=gitlab&logoColor=white&style=for-the-badge" height="40" alt="gitlab logo" />
+  <img src="https://img.shields.io/badge/Jest-CA0F5C?logo=jest&logoColor=white&style=for-the-badge" height="40" alt="jest logo" />
 </div>
-
-###
 
 <h3 align="left">Altre competenze</h3>
-
-###
-
 <div align="left">
-  <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?logo=adobephotoshop&logoColor=black&style=for-the-badge" height="40" alt="photoshop logo"  />
-  <img src="https://img.shields.io/badge/Adobe Premiere Pro-9999FF?logo=adobepremierepro&logoColor=black&style=for-the-badge" height="40" alt="premierepro logo"  />
-  <img src="https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=black&style=for-the-badge" height="40" alt="blender logo"  />
-  <img src="https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white&style=for-the-badge" height="40" alt="arduino logo"  />
-  <img src="https://img.shields.io/badge/Raspberry Pi-A22846?logo=raspberrypi&logoColor=white&style=for-the-badge" height="40" alt="raspberrypi logo" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=black&style=for-the-badge" height="40" alt="canva logo"  />
+  <img src="https://img.shields.io/badge/Adobe Photoshop-F4A4D0?logo=adobephotoshop&logoColor=black&style=for-the-badge" height="40" alt="photoshop logo" />
+  <img src="https://img.shields.io/badge/Adobe Premiere Pro-F4A4D0?logo=adobepremierepro&logoColor=black&style=for-the-badge" height="40" alt="premierepro logo" />
+  <img src="https://img.shields.io/badge/Blender-F4A4D0?logo=blender&logoColor=black&style=for-the-badge" height="40" alt="blender logo" />
+  <img src="https://img.shields.io/badge/Arduino-F4A4D0?logo=arduino&logoColor=black&style=for-the-badge" height="40" alt="arduino logo" />
+  <img src="https://img.shields.io/badge/Raspberry Pi-F4A4D0?logo=raspberrypi&logoColor=black&style=for-the-badge" height="40" alt="raspberrypi logo" />
+  <img src="https://img.shields.io/badge/Canva-F4A4D0?logo=canva&logoColor=black&style=for-the-badge" height="40" alt="canva logo" />
 </div>
 
-###
+<table width="100%">
+  <tr>
+    <td align="center" width="50%" valign="top" style="padding: 10px;">
+      <h3>Final Project Frontend</h3>
+      <a href="https://github.com/Tamburini-Christofer/progetto-finale-spec-frontend-front">
+        <img src="https://github.com/Tamburini-Christofer/progetto-finale-spec-frontend-front/blob/master/public/complete/preferiti.png?raw=true" width="400">
+      </a>
+      <div style="height: 80px;">
+        <p>App React per cercare, ordinare e confrontare fino a 4 film e aggiungerli alla lista preferiti.</p>
+      </div>
+    </td>
+    <td align="center" width="50%" valign="top" style="padding: 10px;">
+      <h3>Magic The Gathering</h3>
+      <a href="https://github.com/Tamburini-Christofer/Magic-TheGathering">
+        <img src="https://github.com/Tamburini-Christofer/Magic-TheGathering/raw/main/public/Completato/Screenshot%202026-01-13%20141310.png" width="400">
+      </a>
+      <div style="height: 80px;">
+        <p>App basata su API dedicata al gioco di carte Magic: The Gathering.</p>
+      </div>
+    </td>
+  </tr>
+  
+  <tr>
+    <td align="center" width="50%" valign="top" style="padding: 10px;">
+      <h3>Boolflix</h3>
+      <a href="https://github.com/Tamburini-Christofer/react-boolflix">
+        <img src="https://github.com/Tamburini-Christofer/react-boolflix/blob/main/immaginiComplete/film.png?raw=true" width="400">
+      </a>
+      <div style="height: 80px;">
+        <p>Clone di Netflix in React con ricerca, filtri, dettagli film e animazioni CSS.</p>
+      </div>
+    </td>
+    <td align="center" width="50%" valign="top" style="padding: 10px;">
+      <h3>Weather App</h3>
+      <a href="https://github.com/Tamburini-Christofer/react-ex-weather-app-main">
+        <img src="https://github.com/Tamburini-Christofer/react-ex-weather-app-main/blob/main/Completato.png?raw=true" width="400">
+      </a>
+      <div style="height: 80px;">
+        <p>App meteo React per ricerca città e visualizzazione dinamica previsioni.</p>
+      </div>
+    </td>
+  </tr>
 
-<table>
-<tr>
-
-<td align="center" width="50%">
-
-### Final Project Frontend
-<a href="https://github.com/Tamburini-Christofer/progetto-finale-spec-frontend-front">
-<img src="https://github.com/Tamburini-Christofer/progetto-finale-spec-frontend-front/blob/master/public/complete/preferiti.png?raw=true" width="400" style="height:auto;">
-</a>
-
-App React per cercare, ordinare e confrontare fino a 4 film e aggiungerli all'interno della pagina preferiti
-</td>
-
-<td align="center" width="50%">
-
-### Magic The Gathering
-<a href="https://github.com/Tamburini-Christofer/Magic-TheGathering">
-<img src="https://github.com/Tamburini-Christofer/Magic-TheGathering/raw/main/public/Completato/Screenshot%202026-01-13%20141310.png" width="400" style="height:auto;">
-</a>
-
-App con API Magic.
-
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center">
-
-### Boolflix
-<a href="https://github.com/Tamburini-Christofer/react-boolflix">
-<img src="https://github.com/Tamburini-Christofer/react-boolflix/blob/main/immaginiComplete/film.png?raw=true" width="400" style="height:auto;">
-</a>
-
-Clone Netflix in React, con ricerca, filtri, dettagli film e serie, interfaccia dinamica con animazioni CSS.
-
-</td>
-
-<td align="center">
-
-### Weather App
-<a href="https://github.com/Tamburini-Christofer/react-ex-weather-app-main">
-<img src="https://github.com/Tamburini-Christofer/react-ex-weather-app-main/blob/main/Completato.png?raw=true" width="400" style="height:auto;">
-</a>
-
-App meteo React con ricerca per città e visualizzazione dinamica delle previsioni.
-
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center">
-
-### DC Comics React
-<a href="https://github.com/Tamburini-Christofer/react-dc-comics">
-<img src="https://github.com/Tamburini-Christofer/react-dc-comics/blob/main/Immagine%20Readmi.png?raw=true" width="400" style="height:auto;">
-</a>
-
-App React per esplorare personaggi e contenuti dell’universo DC Comics.
-
-</td>
-
-<td align="center">
-
-### BooRoad
-<a href="https://github.com/Tamburini-Christofer/booroad-cs5-main">
-<img src="https://github.com/Tamburini-Christofer/booroad-cs5-main/blob/main/Completate/HomePage.png?raw=true" width="400" style="height:auto;">
-</a>
-
-Gestione contatti e viaggi in React, con layout a griglia e funzionalità per aggiungere o rimuovere guide e partecipanti.
-
-</td>
-
-</tr>
+  <tr>
+    <td align="center" width="50%" valign="top" style="padding: 10px;">
+      <h3>DC Comics React</h3>
+      <a href="https://github.com/Tamburini-Christofer/react-dc-comics">
+        <img src="https://github.com/Tamburini-Christofer/react-dc-comics/blob/main/Immagine%20Readmi.png?raw=true" width="400">
+      </a>
+      <div style="height: 80px;">
+        <p>App React per esplorare personaggi e contenuti dell’universo DC Comics.</p>
+      </div>
+    </td>
+    <td align="center" width="50%" valign="top" style="padding: 10px;">
+      <h3>BooRoad</h3>
+      <a href="https://github.com/Tamburini-Christofer/booroad-cs5-main">
+        <img src="https://github.com/Tamburini-Christofer/booroad-cs5-main/blob/main/Completate/HomePage.png?raw=true" width="400">
+      </a>
+      <div style="height: 80px;">
+        <p>Gestione contatti e viaggi con layout a griglia e funzionalità di aggiunta.</p>
+      </div>
+    </td>
+  </tr>
 </table>
+
 <h3 align="center">Contatti</h3>
 
 ###
