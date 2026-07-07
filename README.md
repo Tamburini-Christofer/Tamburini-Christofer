@@ -31,6 +31,7 @@
   <img src="https://img.shields.io/badge/Express-971B9D?logo=express&logoColor=white&style=for-the-badge" height="40" alt="express logo" />
   <img src="https://img.shields.io/badge/Python-971B9D?logo=python&logoColor=white&style=for-the-badge" height="40" alt="python logo" />
   <img src="https://img.shields.io/badge/Java-971B9D?logo=java&logoColor=white&style=for-the-badge" height="40" alt="java logo" />
+  <img src="https://img.shields.io/badge/PHP-971B9D?logo=PHP&logoColor=white&style=for-the-badge" height="40" alt="PHP logo" />
 </div>
 
 <h3 align="left">Dev Tools</h3>
