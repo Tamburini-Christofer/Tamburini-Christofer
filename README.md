@@ -41,6 +41,7 @@
   <img src="https://img.shields.io/badge/Vite-CA0F5C?logo=vite&logoColor=white&style=for-the-badge" height="40" alt="vite logo" />
   <img src="https://img.shields.io/badge/Postman-CA0F5C?logo=postman&logoColor=white&style=for-the-badge" height="40" alt="postman logo" />
   <img src="https://img.shields.io/badge/Trello-CA0F5C?logo=trello&logoColor=white&style=for-the-badge" height="40" alt="trello logo" />
+  <img src="https://img.shields.io/badge/Notion-CA0F5C?logo=notion&logoColor=white&style=for-the-badge" height="40" alt="notion logo" />
   <img src="https://img.shields.io/badge/GitHub-CA0F5C?logo=github&logoColor=white&style=for-the-badge" height="40" alt="github logo" />
   <img src="https://img.shields.io/badge/GitLab-CA0F5C?logo=gitlab&logoColor=white&style=for-the-badge" height="40" alt="gitlab logo" />
   <img src="https://img.shields.io/badge/Jest-CA0F5C?logo=jest&logoColor=white&style=for-the-badge" height="40" alt="jest logo" />
@@ -55,6 +56,18 @@
   <img src="https://img.shields.io/badge/Raspberry Pi-F4A4D0?logo=raspberrypi&logoColor=black&style=for-the-badge" height="40" alt="raspberrypi logo" />
   <img src="https://img.shields.io/badge/Canva-F4A4D0?logo=canva&logoColor=black&style=for-the-badge" height="40" alt="canva logo" />
 </div>
+
+<h3 align="left">Altre competenze IA (In ordine di utilizzo)</h3>
+<div align="left">
+  <img src="https://img.shields.io/badge/Gemini-C2355A?logo=logoColor=white&style=for-the-badge" height="40" alt="Gemini" />
+  <img src="https://img.shields.io/badge/Lovable-C2355A?logo=logoColor=white&style=for-the-badge" height="40" alt="Lovable logo" />
+  <img src="https://img.shields.io/badge/Notebook-C2355A?logo=logoColor=white&style=for-the-badge" height="40" alt="Notebook LM logo" />
+  <img src="https://img.shields.io/badge/Claude-C2355A?logo=logoColor=white&style=for-the-badge" height="40" alt="Claude" />
+  <img src="https://img.shields.io/badge/n8n-C2355A?logo=logoColor=white&style=for-the-badge" height="40" alt="n8n logo" />
+  <img src="https://img.shields.io/badge/Higgsfield-C2355A?logo=logoColor=white&style=for-the-badge" height="40" alt="Higgsfield" />
+</div>
+
+<br/>
 
 <table width="100%">
   <tr>
