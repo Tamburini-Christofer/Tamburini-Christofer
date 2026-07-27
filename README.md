@@ -143,7 +143,14 @@
       </div>
     </td>
     <td align="center" width="50%" valign="top" style="padding: 10px;">
-      </td>
+      <h3>CV Vetrina</h3>
+      <a href="https://github.com/Tamburini-Christofer/Cv-Vetrina">
+        <img src="https://github.com/Tamburini-Christofer/Cv-Vetrina/blob/main/Completato/desktop.png?raw=true" width="400" alt="CV Vetrina Preview">
+      </a>
+      <div style="height: 80px;">
+        <p>Sito web portfolio interattivo per presentare curriculum vitae, competenze e progetti svolti.</p>
+      </div>
+    </td>
   </tr>
 </table>
 
