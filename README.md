@@ -19,6 +19,9 @@
   <img src="https://img.shields.io/badge/JavaScript-C2355A?logo=javascript&logoColor=white&style=for-the-badge" height="40" alt="javascript logo" />
   <img src="https://img.shields.io/badge/TypeScript-C2355A?logo=typescript&logoColor=white&style=for-the-badge" height="40" alt="typescript logo" />
   <img src="https://img.shields.io/badge/React-C2355A?logo=react&logoColor=white&style=for-the-badge" height="40" alt="react logo" />
+  <img src="https://img.shields.io/badge/Vue-C2355A?logo=vue&logoColor=white&style=for-the-badge" height="40" alt="Vue logo" />
+  <img src="https://img.shields.io/badge/Angular-C2355A?logo=angular&logoColor=white&style=for-the-badge" height="40" alt="angular logo" />
+  <img src="https://img.shields.io/badge/Svelte-C2355A?logo=svelte&logoColor=white&style=for-the-badge" height="40" alt="svelte logo" />
   <img src="https://img.shields.io/badge/Next.js-C2355A?logo=nextdotjs&logoColor=white&style=for-the-badge" height="40" alt="nextjs logo" />
   <img src="https://img.shields.io/badge/Bootstrap-C2355A?logo=bootstrap&logoColor=white&style=for-the-badge" height="40" alt="bootstrap logo" />
   <img src="https://img.shields.io/badge/Tailwind CSS-C2355A?logo=tailwindcss&logoColor=white&style=for-the-badge" height="40" alt="tailwindcss logo" />
