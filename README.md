@@ -45,6 +45,7 @@
   <img src="https://img.shields.io/badge/Postman-CA0F5C?logo=postman&logoColor=white&style=for-the-badge" height="40" alt="postman logo" />
   <img src="https://img.shields.io/badge/Trello-CA0F5C?logo=trello&logoColor=white&style=for-the-badge" height="40" alt="trello logo" />
   <img src="https://img.shields.io/badge/Notion-CA0F5C?logo=notion&logoColor=white&style=for-the-badge" height="40" alt="notion logo" />
+  <img src="https://img.shields.io/badge/Obsidian-CA0F5C?logo=obsidian&logoColor=white&style=for-the-badge" height="40" alt="obsidian logo" />
   <img src="https://img.shields.io/badge/GitHub-CA0F5C?logo=github&logoColor=white&style=for-the-badge" height="40" alt="github logo" />
   <img src="https://img.shields.io/badge/GitLab-CA0F5C?logo=gitlab&logoColor=white&style=for-the-badge" height="40" alt="gitlab logo" />
   <img src="https://img.shields.io/badge/Jest-CA0F5C?logo=jest&logoColor=white&style=for-the-badge" height="40" alt="jest logo" />
@@ -63,6 +64,7 @@
 <h3 align="left">Altre competenze IA</h3>
 <div align="left">
   <img src="https://img.shields.io/badge/Gemini-C2355A?logo=logoColor=white&style=for-the-badge" height="40" alt="Gemini" />
+  <img src="https://img.shields.io/badge/Antigravity-C2355A?logo=logoColor=white&style=for-the-badge" height="40" alt="Antigravity" />
   <img src="https://img.shields.io/badge/ChatGpt-C2355A?logo=logoColor=white&style=for-the-badge" height="40" alt="ChatGpt" />
   <img src="https://img.shields.io/badge/Grok-C2355A?logo=logoColor=white&style=for-the-badge" height="40" alt="Grok" />
   <img src="https://img.shields.io/badge/Claude-C2355A?logo=logoColor=white&style=for-the-badge" height="40" alt="Claude" />
